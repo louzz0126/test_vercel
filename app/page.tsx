@@ -15,7 +15,7 @@ export default function Home() {
         />
         <ol>
           <li>
-            Get started by editing <code>xmas!</code>.
+            Get started by editing <code>xma</code>.
           </li>
           <li>Save and see your changes instantly.</li>
         </ol>
